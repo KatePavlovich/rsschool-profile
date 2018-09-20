@@ -1,2 +1,2 @@
-# rsschool-profile
-https://www.codecademy.com/users/asylumhere/achievements
+Katsiaryna Paulovich
+HTML CSS Basics: https://www.codecademy.com/users/asylumhere/achievements
